@@ -1,0 +1,8 @@
+config:
+  review-predictionkyapbwefxcmy-infra:azureStorageConnectionString:
+    secure: AAABABF6sGZcirCzxtfUKWkljetYnSCMRpj7yJpMu3aEfD9aJF73ylrazjPH+rxTReQzmiMPBowwdwMhV4lDJ1BCUJndibjWY+bTJKQbimKvluJxz7ETKaBdynMnyDwYrjSGcVoL6L5dzv5UNv8d1zuLWsT9+j+tB2Zs80GwAFGuL4/vc7OlzXrloAQ8R9rYM7+CcgdaglizHk0XG0oKJUFHuFm04Yn5Q0Ccyc2vjXy+9vOyR/dxH2jaTUUtdZc8Yzo2wf26LAxw+YDzP22nWyHx1F4SYdYhoFG8IAo=
+  review-predictionkyapbwefxcmy-infra:baseStackName: EddieJ03/ml-infra/dev
+  review-predictionkyapbwefxcmy-infra:dockerUsername: edwj03
+  review-predictionkyapbwefxcmy-infra:port: "8000"
+  review-predictionkyapbwefxcmy-infra:mlflowURI: http://minimlplatform.duckdns.org/mlflow
+  review-predictionkyapbwefxcmy-infra:runID: 3571536011ef47ae866110cf0e6cd99d
