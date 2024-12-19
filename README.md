@@ -1,3 +1,21 @@
+## Inference Example:
+
+Send a POST request to this endpoint: `http://minimlplatform.duckdns.org/models/review-predictionkyapbwefxcmy/predict`
+
+Example JSON Input:
+```
+{
+    "review": "i love it"
+}
+```
+
+Example JSON Output:
+```
+{
+    "is_positive": true
+}
+```
+
 ## Setup
 1. Install Poetry https://python-poetry.org/docs/#installation
 2. Run `poetry install`
