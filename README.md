@@ -1,6 +1,7 @@
 ## Inference Example:
 
 Send a POST request to this endpoint: `http://minimlplatform.duckdns.org/models/review-predictionkyapbwefxcmy/predict`
+- **If the link does not work, it is probably because I paused my Kubernetes cluster so I don't go broke**
 
 Example JSON Input:
 ```
